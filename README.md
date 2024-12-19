@@ -1,8 +1,8 @@
 # Hi, I’m Tom 👋 
-**I'm a second year student at Queen Mary University of London, studying Computer Science and aiming to do a Placement year starting in summer 2022.**
+**I'm a junior Software Developer working mainly with C#, JS/TS and React**
 
-I've worked primarily with Swift, for iOS development, and C# for developing .NET Core applications. I have also worked with Java, having developed an Android mobile application
-as well as for my Uni course. Additionally, I have worked with several web frameworks like React and Vue3.
+I've worked also with Swift, for iOS development, and C# for developing .NET Core applications. I have also worked with Java, having developed an Android mobile application
+as well as for my Uni course.
 
 I have published one app on the iOS App Store, and one on the Google Play Store, and hope to have a further product on the App Store within a couple of months.
 
@@ -12,7 +12,7 @@ I have completed freelance work for several small clients, mainly iOS developmen
 #### Links:
 - Website & Projects: [https://tomk.online](https://tomk.online)
 - All Git Repos: [here](https://github.com/Tom-Knighton?tab=repositories)
-- Gary Portal, iOS App Store link: [Gary Portal on the iOS App Store](https://apps.apple.com/kw/app/gary-portal/id1346147876)
+- Gary Portal, iOS App Store link: [Gary Portal on the iOS App Store](https://apps.apple.com/kw/app/gary-portal/id1346147876) (down)
 
 #### Skills:
 - Swift
@@ -23,17 +23,6 @@ I have completed freelance work for several small clients, mainly iOS developmen
 - React & Vue for web development
 - Git
 - Backend experience (hosting & managing Linux servers, sites with Nginx, and docker)
-
------------------------------
-#### Other fun things:
-
-Interests:
-- Dogs! :dog:
-- Skiing :snowflake:
-- Reading :books:
-- Learning new frameworks :school_satchel:
-- Helping out :smile:
-
 
 Last Listened on Spotify:
   
